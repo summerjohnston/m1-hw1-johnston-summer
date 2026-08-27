@@ -1,6 +1,6 @@
 # My First Coding Assignment
 
-![My Personality](my-personality.gif)
+![Jim from the Office](my-personality.gif)
 
 ## About Me
 My name is Summer Johnston, and I love all things creative media. I am originally from Washington State, but I love living in Florida. I get excited about Pinterest boards, baking and taking photos.
